@@ -1,0 +1,11 @@
+# You can specify a custom docker image from Docker Hub as your build environment.
+image: node:6.9.4
+
+pipelines:
+  default:
+    - step:
+        caches:
+          - node
+        script:
+          - npm install
+          - npm run build

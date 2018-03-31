@@ -17,7 +17,11 @@
     "type": "git",
     "url": "git+https://github.com/adailtonribeiro/ar-error-message.git"
   },
-  "keywords": [],
+  "keywords": [
+    "ionic module",
+    "error message",
+    "message component"
+  ],
   "author": "Adailton Ribeiro",
   "license": "MIT",
   "homepage": "http://www.adailtonribeiro.com",

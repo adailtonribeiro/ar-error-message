@@ -10,7 +10,8 @@
   "scripts": {
     "ngc": "ngc",
     "build": "npm run ngc",
-    "publishPackage": "npm run build && npm publish"
+    "publishPackage": "npm run build && npm publish",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -31,6 +32,7 @@
     "@angular/platform-browser-dynamic": "^5.0.3",
     "ionic-angular": "^3.9.2",
     "rxjs": "5.5.2",
+    "standard-version": "^4.3.0",
     "typescript": "^2.6.2",
     "zone.js": "0.8.18"
   }

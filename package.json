@@ -1,6 +1,6 @@
 {
   "name": "ar-error-message",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "A Simple Ionic Error Message Module",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
@@ -17,7 +17,6 @@
     "commitmsg": "commitlint -e $GIT_PARAMS",
     "prerelease-alpha": "npm run release -- --prerelease alpha",
     "prerelease-minor": "npm run release -- --release-as minor",
-    "prerelease": "npm run release -- --prerelease",
     "release": "standard-version"
   },
   "repository": {

@@ -10,7 +10,7 @@
   "scripts": {
     "ngc": "ngc",
     "build": "npm run ngc",
-    "publish": "npm run build && npm publish",
+    "publish-npm": "npm run build && npm publish",
     "prettier": "prettier --write src/**",
     "pretty-quick": "pretty-quick",
     "precommit": "pretty-quick --staged",

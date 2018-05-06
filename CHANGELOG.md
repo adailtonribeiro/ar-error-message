@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.3.0"></a>
+# [0.3.0](https://github.com/adailtonribeiro/ar-error-message/compare/v0.2.0...v0.3.0) (2018-05-06)
+
+
+### Features
+
+* add commit message validation ([154dba2](https://github.com/adailtonribeiro/ar-error-message/commit/154dba2))
+
+
+
 <a name="0.2.0"></a>
 # [0.2.0](https://github.com/adailtonribeiro/ar-error-message/compare/v0.1.0...v0.2.0) (2018-03-31)
 

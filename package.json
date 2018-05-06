@@ -15,6 +15,9 @@
     "pretty-quick": "pretty-quick",
     "precommit": "pretty-quick --staged",
     "commitmsg": "commitlint -e $GIT_PARAMS",
+    "prerelease-alpha": "npm run release -- --prerelease alpha",
+    "prerelease-minor": "npm run release -- --release-as minor",
+    "prerelease": "npm run release -- --prerelease",
     "release": "standard-version"
   },
   "repository": {
